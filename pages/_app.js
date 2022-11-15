@@ -7,7 +7,7 @@ function MyApp({ session, Component, pageProps }) {
   return (
     <SessionProvider session={session} >
       <Head>
-        <title>Twitch</title>
+        <title>Twitch Clone</title>
         <link rel="shortcut icon" href="https://static.twitchcdn.net/assets/favicon-32-e29e246c157142c94346.png" />
       </Head>
       <Navbar />
