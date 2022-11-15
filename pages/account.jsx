@@ -3,7 +3,7 @@ import { FaGithub, FaGoogle } from 'react-icons/fa'
 import { useSession, signIn, signOut } from "next-auth/react"
 import Image from 'next/image'
 
-const account = () => {
+const Account = () => {
     const { data: session } = useSession()
     if (session) {
         return (
@@ -27,4 +27,4 @@ const account = () => {
   )
 }
 
-export default account
+export default Account
