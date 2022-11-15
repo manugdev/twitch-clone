@@ -1,0 +1,25 @@
+export const rec_channels = [{"id":1,"avatar":"https://robohash.org/necessitatibusanimiquisquam.png?size=50x50&set=set1","userName":"aoldis0","gameName":"Tresom","rank":57},
+{"id":2,"avatar":"https://robohash.org/ipsumnondolores.png?size=50x50&set=set1","userName":"swhodcoat1","gameName":"Regrant","rank":43},
+{"id":3,"avatar":"https://robohash.org/hicenimaut.png?size=50x50&set=set1","userName":"rdegregario2","gameName":"Holdlamis","rank":27},
+{"id":4,"avatar":"https://robohash.org/quisdolorumid.png?size=50x50&set=set1","userName":"dgarnar3","gameName":"Fixflex","rank":86},
+{"id":5,"avatar":"https://robohash.org/veniamexercitationemtemporibus.png?size=50x50&set=set1","userName":"bprott4","gameName":"Tampflex","rank":12},
+{"id":6,"avatar":"https://robohash.org/autemnullaiste.png?size=50x50&set=set1","userName":"achinge5","gameName":"Ronstring","rank":73},
+{"id":7,"avatar":"https://robohash.org/ametquiaexercitationem.png?size=50x50&set=set1","userName":"jodd6","gameName":"Bigtax","rank":55},
+{"id":8,"avatar":"https://robohash.org/quodculpalaudantium.png?size=50x50&set=set1","userName":"emaeer7","gameName":"Biodex","rank":25},
+{"id":9,"avatar":"https://robohash.org/commodiquosapiente.png?size=50x50&set=set1","userName":"dwoolaghan8","gameName":"Veribet","rank":61},
+{"id":10,"avatar":"https://robohash.org/inutaut.png?size=50x50&set=set1","userName":"vthormwell9","gameName":"Voyatouch","rank":64}]
+
+export const top_channels = [{"id": 11, "avatar": "https://robohash.org/accusantiumeumenim.png?size=50x50&set=set1", "userName": "zfowella", "gameName": "Ventosanzap", "rank": 97}, {"id": 12,
+"avatar": "https://robohash.org/debitisquoillo.png?size=50x50&set=set1",
+"userName": "bmessumb",
+"gameName": "Pannier",
+"rank": 60}, {"id": 14,
+"avatar": "https://robohash.org/ipsamaiste.png?size=50x50&set=set1",
+"userName": "ryoutheadd",
+"gameName": "Y-find",
+"rank": 97}, {"id": 15,
+"avatar": "https://robohash.org/magnamnostrumvel.png?size=50x50&set=set1",
+"userName": "rcottue",
+"gameName": "Fintone",
+"rank": 20}
+]
